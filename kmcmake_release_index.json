@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-27T22:15:34.887924Z",
+    "total_releases": 5,
+    "latest_tag": "v0.1.12"
+  },
+  "versions": [
+    {
+      "tag_name": "v0.1.12",
+      "title": "v0.1.12",
+      "published_at": "2025-11-25T18:08:47Z",
+      "updated_at": "2025-11-25T18:08:47Z",
+      "status": "released",
+      "description": "## Project Template v0.1.12 Released 🚀\n- Type: Pure file release\n- Contents: template/, README.md, LICENSE\n\n## Changelog\n* 367cea37ac51e952ed41cd537633d84459932dce: test noop builder\n\nReleased by kmdo pkg.\n",
+      "tar_url": "https://api.github.com/repos/kumose/kmcmake/tarball/v0.1.12",
+      "zip_url": "https://api.github.com/repos/kumose/kmcmake/zipball/v0.1.12",
+      "assets": {
+        "checksums.txt": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.12/checksums.txt",
+          "size_bytes": 192,
+          "sha256": ""
+        },
+        "kmcmake-0.1.12-any-any.tar.gz": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.12/kmcmake-0.1.12-any-any.tar.gz",
+          "size_bytes": 57396,
+          "sha256": ""
+        },
+        "kmcmake_0.1.12_all_all.tar.gz": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.12/kmcmake_0.1.12_all_all.tar.gz",
+          "size_bytes": 12060,
+          "sha256": ""
+        }
+      },
+      "total_assets": 3,
+      "is_latest": true
+    },
+    {
+      "tag_name": "v0.1.11",
+      "title": "v0.1.11",
+      "published_at": "2025-11-25T12:10:06Z",
+      "updated_at": "2025-11-25T12:10:06Z",
+      "status": "released",
+      "description": "## Project Template v0.1.11 Released 🚀\n- Type: Pure file release\n- Contents: template/, README.md, LICENSE\n\n## Changelog\n* d01451a137c33d422b1c2fd6d18ef269251012f1: tidy\n\nReleased by kmdo pkg.\n",
+      "tar_url": "https://api.github.com/repos/kumose/kmcmake/tarball/v0.1.11",
+      "zip_url": "https://api.github.com/repos/kumose/kmcmake/zipball/v0.1.11",
+      "assets": {
+        "checksums.txt": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.11/checksums.txt",
+          "size_bytes": 196,
+          "sha256": ""
+        },
+        "kmcmake-0.1.11-any-any.tar.gz": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.11/kmcmake-0.1.11-any-any.tar.gz",
+          "size_bytes": 737284,
+          "sha256": ""
+        },
+        "kmcmake_0.1.11_linux_amd64.tar.gz": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.11/kmcmake_0.1.11_linux_amd64.tar.gz",
+          "size_bytes": 692103,
+          "sha256": ""
+        }
+      },
+      "total_assets": 3,
+      "is_latest": false
+    },
+    {
+      "tag_name": "v0.1.10",
+      "title": "v0.1.10",
+      "published_at": "2025-11-25T12:06:12Z",
+      "updated_at": "2025-11-25T12:06:12Z",
+      "status": "released",
+      "description": "## Project Template v0.1.10 Released 🚀\n- Type: Pure file release\n- Contents: template/, README.md, LICENSE\n\n## Changelog\n* 1bc935a97784fa74d788a62c202a70b506cd55ca: tidy\n\nReleased by kmdo pkg.\n",
+      "tar_url": "https://api.github.com/repos/kumose/kmcmake/tarball/v0.1.10",
+      "zip_url": "https://api.github.com/repos/kumose/kmcmake/zipball/v0.1.10",
+      "assets": {
+        "checksums.txt": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.10/checksums.txt",
+          "size_bytes": 196,
+          "sha256": ""
+        },
+        "kmcmake-0.1.10-any-any.tar.gz": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.10/kmcmake-0.1.10-any-any.tar.gz",
+          "size_bytes": 719997,
+          "sha256": ""
+        },
+        "kmcmake_0.1.10_linux_amd64.tar.gz": {
+          "download_url": "https://github.com/kumose/kmcmake/releases/download/v0.1.10/kmcmake_0.1.10_linux_amd64.tar.gz",
+          "size_bytes": 692111,
+          "sha256": ""
+        }
+      },
+      "total_assets": 3,
+      "is_latest": false
+    },
+    {
+      "tag_name": "v0.1.8",
+      "title": "v0.1.8",
+      "published_at": "2025-11-25T11:59:16Z",
+      "updated_at": "2025-11-25T11:59:16Z",
+      "status": "released",
+      "description": "## Project Template v0.1.8 Released 🚀\n- Type: Pure file release\n- Contents: template/, README.md, LICENSE\n\n## Changelog\n* 6ae09ea848c5329fc805193b244cacb749929a43: tidy\n\nReleased by kmdo pkg.\n",
+      "tar_url": "https://api.github.com/repos/kumose/kmcmake/tarball/v0.1.8",
+      "zip_url": "https://api.github.com/repos/kumose/kmcmake/zipball/v0.1.8",
+      "assets": {},
+      "total_assets": 0,
+      "is_latest": false
+    },
+    {
+      "tag_name": "v0.1.7",
+      "title": "v0.1.7",
+      "published_at": "2025-11-25T10:50:38Z",
+      "updated_at": "2025-11-25T10:50:38Z",
+      "status": "released",
+      "description": "## Project Template v0.1.7 Released 🚀\n- Type: Pure file release\n- Contents: template/, README.md, LICENSE\n\n## Changelog\n* 9fb81eda2bc295c862baacfe7bf104ec713556e0: tidy\n\nReleased by kmdo pkg.\n",
+      "tar_url": "https://api.github.com/repos/kumose/kmcmake/tarball/v0.1.7",
+      "zip_url": "https://api.github.com/repos/kumose/kmcmake/zipball/v0.1.7",
+      "assets": {},
+      "total_assets": 0,
+      "is_latest": false
+    }
+  ]
+}
