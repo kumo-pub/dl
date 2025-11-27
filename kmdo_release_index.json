@@ -1,10 +1,169 @@
 {
   "metadata": {
-    "generated_at": "2025-11-21T02:06:49.851135Z",
-    "total_releases": 3,
-    "latest_tag": "v0.6.20"
+    "generated_at": "2025-11-27T20:17:43.839193Z",
+    "total_releases": 4,
+    "latest_tag": "v0.6.21"
   },
   "versions": [
+    {
+      "tag_name": "v0.6.21",
+      "title": "v0.6.21",
+      "published_at": "2025-11-26T22:48:49Z",
+      "updated_at": "2025-11-26T22:48:49Z",
+      "status": "released",
+      "description": "## Announcement\n\nRead the official announcement: [Announcing Kmdo v0.6](https://pub.kumose.cc/blog/kmdo-v0.6/).\n\n## Changelog\n### Other work\n* e64dc9449ef9a542d6a1a946f6f1b813f89db2fe: add noop builder for pure data release\n* 1f457a4f101d5b24624adf8b404403a0a9e38b84: kmdo pub cmd\n\n**Full Changelog**: https://github.com/kumose/kmdo/compare/v0.6.20...v0.6.21\n\n\n## Helping out\n\nThis release is only possible thanks to **all** the support of some **awesome people**!\n\nWant to be one of them?\nYou can [sponsor](https://pub.kumose.cc/sponsors/), get a [Pro License](https://pub.kumose.cc/pro) or [contribute with code](https://pub.kumose.cc/contributing).\n\n## Where to go next?\n\n* Find examples and commented usage of all options in our [website](https://pub.kumose.cc/intro/).\n\n<a href=\"https://pub.kumose.cc\"><img src=\"https://raw.githubusercontent.com/kumose/artwork/master/opencollective-header.png\" with=\"100%\" alt=\"kumose logo\"></a>\n\n\n",
+      "tar_url": "https://api.github.com/repos/kumose/kmdo/tarball/v0.6.21",
+      "zip_url": "https://api.github.com/repos/kumose/kmdo/zipball/v0.6.21",
+      "assets": {
+        "checksums.txt": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/checksums.txt",
+          "size_bytes": 2586,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1-aarch64.pkg.tar.zst": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1-aarch64.pkg.tar.zst",
+          "size_bytes": 25185737,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1-armv7h.pkg.tar.zst": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1-armv7h.pkg.tar.zst",
+          "size_bytes": 25729665,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1-i686.pkg.tar.zst": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1-i686.pkg.tar.zst",
+          "size_bytes": 25627195,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1-x86_64.pkg.tar.zst": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1-x86_64.pkg.tar.zst",
+          "size_bytes": 28151456,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1.aarch64.rpm": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1.aarch64.rpm",
+          "size_bytes": 27292205,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1.armv7hl.rpm": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1.armv7hl.rpm",
+          "size_bytes": 28302892,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1.i386.rpm": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1.i386.rpm",
+          "size_bytes": 27920683,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1.ppc64.rpm": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1.ppc64.rpm",
+          "size_bytes": 27459846,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1.riscv64.rpm": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1.riscv64.rpm",
+          "size_bytes": 29227208,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-1.x86_64.rpm": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-1.x86_64.rpm",
+          "size_bytes": 30383641,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-linux-arm-v7.tar.gz": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-linux-arm-v7.tar.gz",
+          "size_bytes": 27162700,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-linux-arm64.tar.gz": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-linux-arm64.tar.gz",
+          "size_bytes": 26227359,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-linux-i386.tar.gz": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-linux-i386.tar.gz",
+          "size_bytes": 26748609,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-linux-ppc64.tar.gz": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-linux-ppc64.tar.gz",
+          "size_bytes": 25981233,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-linux-riscv64.tar.gz": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-linux-riscv64.tar.gz",
+          "size_bytes": 27934724,
+          "sha256": ""
+        },
+        "kmdo-0.6.21-linux-x86_64.tar.gz": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo-0.6.21-linux-x86_64.tar.gz",
+          "size_bytes": 29051302,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_aarch64.apk": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_aarch64.apk",
+          "size_bytes": 27274532,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_amd64.deb": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_amd64.deb",
+          "size_bytes": 29187504,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_arm64.deb": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_arm64.deb",
+          "size_bytes": 26346972,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_armhf.deb": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_armhf.deb",
+          "size_bytes": 27257930,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_armv7.apk": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_armv7.apk",
+          "size_bytes": 28275729,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_i386.deb": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_i386.deb",
+          "size_bytes": 26855534,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_ppc64.apk": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_ppc64.apk",
+          "size_bytes": 27388012,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_ppc64.deb": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_ppc64.deb",
+          "size_bytes": 26236936,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_riscv64.apk": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_riscv64.apk",
+          "size_bytes": 29186326,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_riscv64.deb": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_riscv64.deb",
+          "size_bytes": 28068152,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_x86.apk": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_x86.apk",
+          "size_bytes": 27940517,
+          "sha256": ""
+        },
+        "kmdo_0.6.21_x86_64.apk": {
+          "download_url": "https://github.com/kumose/kmdo/releases/download/v0.6.21/kmdo_0.6.21_x86_64.apk",
+          "size_bytes": 30361132,
+          "sha256": ""
+        }
+      },
+      "total_assets": 29,
+      "is_latest": true
+    },
     {
       "tag_name": "v0.6.20",
       "title": "v0.6.20",
@@ -162,7 +321,7 @@
         }
       },
       "total_assets": 29,
-      "is_latest": true
+      "is_latest": false
     },
     {
       "tag_name": "v0.6.2",
